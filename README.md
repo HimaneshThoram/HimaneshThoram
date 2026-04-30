@@ -1,26 +1,106 @@
+# 👋 Hi, I'm Himanesh Thoram
 
-# 🌟 Who Am I? 🤔
+🚀 B.Tech Computer Science student passionate about building real-world applications across **Web Development, Machine Learning, AI, and Hardware Systems**.
 
-## 💡 About Me
-Greetings! I'm Himanesh Thoram, a recent high school graduate on an exhilarating journey into the realms of data science. Freshly enrolled in college, I'm immersing myself in the captivating world of Python programming and data science. Driven by an unyielding passion, my ultimate aim is to sculpt myself into a proficient data scientist. Despite stepping onto this collegiate path, I'm fervently laying the groundwork in Python and data science, recognizing their paramount importance in my journey ahead. Embark with me as I unravel the intricacies of Python, statistics, machine learning, and real-world projects, sculpting my path towards data science mastery. 🚀
-
-## 📚 Learning Path
-1. **Python Fundamentals**: Currently mastering Python programming.
-2. **Statistics and Probability Math**: Poised to delve into the depths of statistics and probability math.
-3. **Machine Learning**: Eagerly anticipating the exploration of machine learning algorithms.
-4. **Real-time Projects**: Aspiring to immerse myself in real-time data science projects.
-5. **Sharing Knowledge**: Envisioning the sharing of my insights through future courses.
-
-## 🎯 Future Goals
-In the horizon, I aspire to:
-- Enhance my proficiency in Python and data science.
-- Contribute substantively to real-world projects.
-- Inspire others by disseminating knowledge through courses.
-
-## 📧 Contact
-You can reach out to me at himaneshthoram96@gmail.com for any inquiries or collaboration opportunities.
-
- Thanks for Visiting 🔝
+I focus on learning by **actually building projects**, exploring different domains, and connecting software with practical use cases.
 
 ---
 
+## 💡 About Me
+
+- 🎓 B.Tech CSE student  
+- 💻 Work across **full-stack development, ML, and embedded systems**
+- 🔁 Prefer hands-on learning over just theory  
+- 🧠 Recently started exploring **DSA to strengthen problem-solving**  
+- 🎯 Goal: Become a well-rounded engineer with strong system and AI skills  
+
+---
+
+## 🚀 Projects
+
+### 🧠 Crystext (AI + Domain Project)
+- Developing an **LLM-based system** to generate crystal structure files (CIF)
+- Uses:
+  - Python (FastAPI)
+  - Node.js backend
+  - Model fine-tuning concepts
+- Focused on combining **AI with real scientific data**
+
+---
+
+### 🐾 Pet Rescue App (Paw Rangers)
+- Built a **community-based mobile app** for reporting and managing rescued animals  
+- Features:
+  - Report animals  
+  - Community interaction  
+- Tech:
+  - React Native (Expo)
+
+---
+
+### 📰 News Analyzer
+- Developed a **real-time news platform**
+- Features:
+  - News aggregation via API  
+  - Text summarization   
+  - User authentication & personalization  
+- Tech:
+  - Node.js, MongoDB
+  - HTML, CSS, JavaScript
+
+---
+
+## 🤖 Machine Learning & Data Work
+
+- Working with:
+  - NumPy, Pandas, Scikit-learn  
+- Practiced:
+  - Classification & Regression models  
+  - Data preprocessing & EDA  
+  - Model evaluation (Accuracy, MSE, R²)  
+- Focused on applying ML in **real-world projects**
+
+---
+
+## ⚙️ Hardware & Embedded Work
+
+- Built systems using:
+  - Arduino boards  
+  - Stepper motors  
+  - Circuit-based logic  
+- Worked on automation-style prototypes involving motor control and logic flow  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C, C++, Java, JavaScript  
+- **Web:** HTML, CSS, Node.js  
+- **Database:** MongoDB  
+- **ML/Data:** NumPy, Pandas, Scikit-learn  
+- **App Dev:** React Native (Expo)  
+- **Hardware:** Arduino  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🎯 Goals
+
+- Build impactful **AI-driven applications**  
+- Develop strong **full-stack systems**  
+- Explore **AI + real-world domain integration**  
+- Continuously improve by building and experimenting  
+
+---
+
+## 📫 Contact
+
+📧 himaneshthoram96@gmail.com  
+🔗 https://github.com/HimaneshThoram  
+
+---
+
+## 🚀 Final Note
+
+I’m constantly learning, building, and refining my skills.  
+Every project I work on is focused on solving real problems and improving as an engineer.
